@@ -11,7 +11,7 @@ Authors:
 Translator:
 
 * With the help of [Deepl](https://www.deepl.com/de/translator)
-* With the help of [Ebook Translator (a Calibre plugin)]([https://translator.bookfere.com)
+* With the help of [Ebook Translator (a Calibre plugin)](https://translator.bookfere.com)
 
 # Licenses
 Some or all works by this author are in the public domain in the United States
