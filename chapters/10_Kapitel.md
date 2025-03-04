@@ -9,7 +9,7 @@ Physische Merkmale - Befestigte Dörfer - Jibiani - Fromme Wilde - Eine
 Alarme und Ausflüge - Ein stürmischer Abschied - Das Haus des Reiters - Der
 ruinierte Turm - Ein herrlicher Eisfall - Adisch - Waldlandschaft - Der
 Mushalaliz - Suni - Höhen und Tiefen - Mittagshalt - Latal - Ein suanetisches
-Bauernhaus - Mord kein Verbrechen - Tau Totonal - Eine Sensationsszene - Das
+Bauernhaus - Mord kein Verbrechen - Tau Tötönal - Eine Sensationsszene - Das
 kaukasische Matterhorn - Endlich Pari - Gastfreundliche Kosaken.
 <br/><br />
 ::::
